@@ -1,2 +1,2 @@
 # Recursion-2019
-sjfsljf
+A collabarative project to develop Recursion Event 2021 webiste for fund collection.
